@@ -27,6 +27,8 @@ This project analyzes retail business performance to uncover hidden profitabilit
 
 ## Dashboard
 An interactive Power BI dashboard was created to visualize KPIs, revenue trends, category performance, regional analysis, and discount impact with dynamic filters and drill-down capabilities.
+<img width="1326" height="798" alt="image" src="https://github.com/user-attachments/assets/4f3fc8d4-61b5-4b55-a54e-ffe365e99c28" />
+
 
 ## Business Recommendations
 - Optimize Furniture category pricing to target 10% margin
